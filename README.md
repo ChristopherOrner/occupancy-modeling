@@ -1,5 +1,5 @@
 # Occupancy Modeling
-This occupancy model was performed for my senior honors in the Bartolome Lab at UC Berkeley under Felix Ratcliff. The occupancy model predicts the probability a species inhabits a site based off of it ecosystem variables, like temperature, precipitation, and vegetation coverage.
+This occupancy model was performed for my senior honors thesis in the Bartolome Lab at UC Berkeley under Felix Ratcliff. The occupancy model predicts the probability a species inhabits a site based off of the site's ecosystem variables, like temperature, precipitation, and vegetation coverage.
 
 # Requirements
 The occupancy model I used comes from the "unmarked" package in R. The analysis is scripted to be run in RStudio.
