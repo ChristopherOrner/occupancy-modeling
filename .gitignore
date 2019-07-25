@@ -1,0 +1,20 @@
+# R program files that don't need to be shared.
+.Rproj.user
+.RData
+.Rhistory
+
+# Folders I'm not sure if I want to share.
+# Never share data
+/Civil_Twilight
+/output
+/prep_data
+/survey_data
+/temp
+/temp_species_PAs
+
+# R files that aren't my project
+colext_crossbill.R
+colext_example.R
+Missing_File.R
+Occ_code.R
+Unmark_start.R
